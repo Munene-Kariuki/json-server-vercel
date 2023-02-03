@@ -1,9 +1,266 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "January": [
+    {
+      "name": "Week 1",
+      "Revenue": 10000,
+      "Expenses": 8000
+    },
+    {
+      "name": "Week 2",
+      "Revenue": 15000,
+      "Expenses": 10000
+    },
+    {
+      "name": "Week 3",
+      "Revenue": 8000,
+      "Expenses": 5000
+    },
+    {
+      "name": "Week 4",
+      "Revenue": 20000,
+      "Expenses": 12000
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
+  "February": [
+    {
+      "name": "Week 1",
+      "Revenue": 12000,
+      "Expenses": 8000
+    },
+    {
+      "name": "Week 2",
+      "Revenue": 10000,
+      "Expenses": 12000
+    },
+    {
+      "name": "Week 3",
+      "Revenue": 18000,
+      "Expenses": 9000
+    },
+    {
+      "name": "Week 4",
+      "Revenue": 20000,
+      "Expenses": 18000
+    }
   ],
-  "profile": { "name": "typicode" }
+  "March": [
+    {
+      "name": "Week 1",
+      "Revenue": 10000,
+      "Expenses": 8000
+    },
+    {
+      "name": "Week 2",
+      "Revenue": 20000,
+      "Expenses": 12000
+    },
+    {
+      "name": "Week 3",
+      "Revenue": 15000,
+      "Expenses": 9000
+    },
+    {
+      "name": "Week 4",
+      "Revenue": 10000,
+      "Expenses": 8000
+    }
+  ],
+  "April": [
+    {
+      "name": "Week 1",
+      "Revenue": 20000,
+      "Expenses": 8000
+    },
+    {
+      "name": "Week 2",
+      "Revenue": 15000,
+      "Expenses": 9000
+    },
+    {
+      "name": "Week 3",
+      "Revenue": 25000,
+      "Expenses": 15000
+    },
+    {
+      "name": "Week 4",
+      "Revenue": 30000,
+      "Expenses": 15000
+    }
+  ],
+  "May": [
+    {
+      "name": "Week 1",
+      "Revenue": 20000,
+      "Expenses": 13000
+    },
+    {
+      "name": "Week 2",
+      "Revenue": 15000,
+      "Expenses": 12000
+    },
+    {
+      "name": "Week 3",
+      "Revenue": 10000,
+      "Expenses": 7000
+    },
+    {
+      "name": "Week 4",
+      "Revenue": 8000,
+      "Expenses": 5000
+    }
+  ],
+  "June": [
+    {
+      "name": "Week 1",
+      "Revenue": 10000,
+      "Expenses": 7000
+    },
+    {
+      "name": "Week 2",
+      "Revenue": 15000,
+      "Expenses": 10000
+    },
+    {
+      "name": "Week 3",
+      "Revenue": 20000,
+      "Expenses": 13000
+    },
+    {
+      "name": "Week 4",
+      "Revenue": 22000,
+      "Expenses": 13000
+    }
+  ],
+  "July": [
+    {
+      "name": "Week 1",
+      "Revenue": 20000,
+      "Expenses": 13000
+    },
+    {
+      "name": "Week 2",
+      "Revenue": 15000,
+      "Expenses": 12000
+    },
+    {
+      "name": "Week 3",
+      "Revenue": 15000,
+      "Expenses": 7000
+    },
+    {
+      "name": "Week 4",
+      "Revenue": 18000,
+      "Expenses": 13000
+    }
+  ],
+  "August": [
+    {
+      "name": "Week 1",
+      "Revenue": 22000,
+      "Expenses": 15000
+    },
+    {
+      "name": "Week 2",
+      "Revenue": 25000,
+      "Expenses": 19000
+    },
+    {
+      "name": "Week 3",
+      "Revenue": 25000,
+      "Expenses": 15000
+    },
+    {
+      "name": "Week 4",
+      "Revenue": 30000,
+      "Expenses": 15000
+    }
+  ],
+  "September": [
+    {
+      "name": "Week 1",
+      "Revenue": 28000,
+      "Expenses": 20000
+    },
+    {
+      "name": "Week 2",
+      "Revenue": 25000,
+      "Expenses": 19000
+    },
+    {
+      "name": "Week 3",
+      "Revenue": 23000,
+      "Expenses": 15000
+    },
+    {
+      "name": "Week 4",
+      "Revenue": 20000,
+      "Expenses": 15000
+    }
+  ],
+  "October": [
+    {
+      "name": "Week 1",
+      "Revenue": 18000,
+      "Expenses": 20000
+    },
+    {
+      "name": "Week 2",
+      "Revenue": 18000,
+      "Expenses": 19000
+    },
+    {
+      "name": "Week 3",
+      "Revenue": 23000,
+      "Expenses": 15000
+    },
+    {
+      "name": "Week 4",
+      "Revenue": 10000,
+      "Expenses": 5000
+    }
+  ],
+  "November": [
+    {
+      "name": "Week 1",
+      "Revenue": 12000,
+      "Expenses": 8000
+    },
+    {
+      "name": "Week 2",
+      "Revenue": 18000,
+      "Expenses": 13000
+    },
+    {
+      "name": "Week 3",
+      "Revenue": 23000,
+      "Expenses": 15000
+    },
+    {
+      "name": "Week 4",
+      "Revenue": 20000,
+      "Expenses": 14000
+    }
+  ],
+  "Decemeber": [
+    {
+      "name": "Week 1",
+      "Revenue": 30000,
+      "Expenses": 18000
+    },
+    {
+      "name": "Week 2",
+      "Revenue": 40000,
+      "Expenses": 18000
+    },
+    {
+      "name": "Week 3",
+      "Revenue": 45000,
+      "Expenses": 20000
+    },
+    {
+      "name": "Week 4",
+      "Revenue": 50000,
+      "Expenses": 24000
+    }
+  ]
 }
