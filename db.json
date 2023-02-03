@@ -241,7 +241,7 @@
       "Expenses": 14000
     }
   ],
-  "Decemeber": [
+  "December": [
     {
       "name": "Week 1",
       "Revenue": 30000,
@@ -262,5 +262,7 @@
       "Revenue": 50000,
       "Expenses": 24000
     }
-  ]
+  ],
+  "months": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+
 }
